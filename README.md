@@ -27,8 +27,8 @@ Products - Dimension Table
 - Exc - Excelsa
 
   Roast Type:
-  L - Light Roasted
-  M - Medium Roasted
+  L - Light Roasted.
+  M - Medium Roasted.
   D - Dark Roasted
 
   
