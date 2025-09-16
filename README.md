@@ -43,7 +43,7 @@ First remove the duplicates from the customerId column
 
 we get 913 Unique customers
 
-
+![img alt](https://github.com/nsankareswari-70/Data-Modeling-and-Analysis-in-Excel/blob/59bd87b13d439fe72e0f71e0c23eaa69e6c1eeb6/dme3.png)
 
   
 
