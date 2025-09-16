@@ -2,6 +2,7 @@
 
 ## Project Description:
 ## Project: Coffee Sales Analysis
+
 ## Objectives
 
 - Identify which species of coffee (e.g., Arabica, Robusta, etc.) are selling the most.
