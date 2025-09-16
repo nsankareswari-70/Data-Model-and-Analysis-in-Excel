@@ -60,5 +60,6 @@ From the above data we can see CustomerID 86579-92122-OC made - 7 orders
 
   ![img alt](https://github.com/nsankareswari-70/Data-Modeling-and-Analysis-in-Excel/blob/d5d28018cc976e293c039ba59e2ca7a4696a5268/dme5.png)
 
+![img alt](https://github.com/nsankareswari-70/Data-Modeling-and-Analysis-in-Excel/blob/8a7af178a72168eedf5954a51781815bdb3b8558/dme6.png)
   
 
