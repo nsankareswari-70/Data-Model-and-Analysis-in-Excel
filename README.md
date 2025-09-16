@@ -55,5 +55,8 @@ Now sort the table desending by the column NumberofOrders
 
 From the above data we can see CustomerID 86579-92122-OC made - 7 orders
 
+  To find that customer from the customer table use vlookup function
+  =VLOOKUP(B1006,customers[#All],2,FALSE)
+
   
 
