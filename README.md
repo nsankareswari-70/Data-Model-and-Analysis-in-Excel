@@ -2,7 +2,7 @@
 
 ## Project Description:
 ## Project: Coffee Sales Analysis
-
+![img alt](https://github.com/nsankareswari-70/Data-Modeling-and-Analysis-in-Excel/blob/32f5ebc8ba6be11308dfac93482b67a258d5f112/cofeespecies.png)
 ## Objectives
 
 - Identify which species of coffee (e.g., Arabica, Robusta, etc.) are selling the most.
