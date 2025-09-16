@@ -35,7 +35,7 @@ Products - Dimension Table
   
 =VLOOKUP([@[Product ID]],products[#All],7,FALSE)
 
-Finalprofit = =[@Quantity]*[@[Products(Profit)]]
+Finalprofit  =[@Quantity]*[@[Products(Profit)]]
 
 ## To find the customers who made most orders
 
