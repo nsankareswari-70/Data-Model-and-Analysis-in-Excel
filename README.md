@@ -25,5 +25,11 @@ Products - Dimension Table
 - Rob - Robusta
 - Lib - Liberica
 - Exc - Excelsa
+
+  Roast Type:
+  L - Light Roasted
+  M - Medium Roasted
+  D - Dark Roasted
+
   
 
