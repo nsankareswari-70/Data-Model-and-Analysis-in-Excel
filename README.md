@@ -31,5 +31,9 @@ Products - Dimension Table
   M - Medium Roasted.
   D - Dark Roasted
 
+  ## Creating a calculated column Profit in the orders table as    
+  
+  =products[@Profit]*[@Quantity]
+
   
 
