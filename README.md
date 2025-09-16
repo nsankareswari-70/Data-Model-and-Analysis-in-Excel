@@ -18,3 +18,11 @@ Orders - Fact Table
 Customers - Dimension Table   
 Products - Dimension Table   
 
+## Data description
+
+- Ara - Arabica
+- Rob - Robusta
+- Lib - Liberica
+- Exc - Excelsa
+  
+
