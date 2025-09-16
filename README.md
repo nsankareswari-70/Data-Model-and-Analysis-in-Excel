@@ -62,6 +62,5 @@ From the above data we can see CustomerID 86579-92122-OC made - 7 orders
 
   ## Lets create another pivot table to see the profit by coffee type and its Roast type
 
-![img alt](https://github.com/nsankareswari-70/Data-Modeling-and-Analysis-in-Excel/blob/8a7af178a72168eedf5954a51781815bdb3b8558/dme6.png)
-  
+
 
