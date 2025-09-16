@@ -33,7 +33,17 @@ Products - Dimension Table
 
   ## Creating a calculated column Profit in the orders table as    
   
-  =products[@Profit]*[@Quantity]
+=VLOOKUP([@[Product ID]],products[#All],7,FALSE)
+
+Finalprofit = =[@Quantity]*[@[Products(Profit)]]
+
+## To find the customers who made most orders
+
+First remove the duplicates from the customerId column
+
+we get 913 Unique customers
+
+
 
   
 
