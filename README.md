@@ -51,6 +51,7 @@ Now we need to get the count of each customerId in the orders table to find the 
 
 Now sort the table desending by the column NumberofOrders
 
+![img alt](https://github.com/nsankareswari-70/Data-Modeling-and-Analysis-in-Excel/blob/7d860d95212b9af7f95a8ebc6c42d7e2db374887/dme4.png)
 
   
 
