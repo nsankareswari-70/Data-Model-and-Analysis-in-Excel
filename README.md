@@ -47,6 +47,10 @@ we get 913 Unique customers
 
 Now we need to get the count of each customerId in the orders table to find the customer who made the max order.
 
+=COUNTIF(orders[Customer ID],K5)
+
+Now sort the table desending by the column NumberofOrders
+
 
   
 
