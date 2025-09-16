@@ -58,5 +58,7 @@ From the above data we can see CustomerID 86579-92122-OC made - 7 orders
   To find that customer from the customer table use vlookup function
   =VLOOKUP(B1006,customers[#All],2,FALSE)
 
+  ![img alt](https://github.com/nsankareswari-70/Data-Modeling-and-Analysis-in-Excel/blob/d5d28018cc976e293c039ba59e2ca7a4696a5268/dme5.png)
+
   
 
