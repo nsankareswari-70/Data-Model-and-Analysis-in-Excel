@@ -45,5 +45,8 @@ we get 913 Unique customers
 
 ![img alt](https://github.com/nsankareswari-70/Data-Modeling-and-Analysis-in-Excel/blob/59bd87b13d439fe72e0f71e0c23eaa69e6c1eeb6/dme3.png)
 
+Now we need to get the count of each customerId in the orders table to find the customer who made the max order.
+
+
   
 
