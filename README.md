@@ -1,4 +1,6 @@
 # Data-Modeling-and-Analysis-in-Excel
+## Data Modeling:
+Setting up tables, relationships, calculations, and access for analysis scenarios
 
 ## Project Description:
 ## Project: Coffee Sales Analysis
